@@ -1,0 +1,12 @@
+the why
+	- build neural network from scratch
+	- easy with step by step building
+	- get important ideas
+	- learn create network with both numpy and pytorch from scratch
+	- applied with projects
+
+layout
+	- one neuron
+	- 2 neuron, 2 layer network
+	
+

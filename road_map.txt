@@ -1,0 +1,18 @@
+-----------------------------------------------
+- domain
+	- i-squared.io
+
+- logo
+	- i2
+
+- work
+	- training on/off
+	- consultant
+	- develop application
+	- investment
+
+- strategy
+	- view from the top, state of art
+	- focus on development
+	- focus on task, application, problem oriented
+-----------------------------------------------
