@@ -2,6 +2,9 @@
 - gradient decense
 
 
+
+
+
 # Two neuron
 
 
